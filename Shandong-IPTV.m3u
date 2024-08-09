@@ -125,6 +125,12 @@ http://www.xuweihome.vip:2222/udp/239.253.248.59:8000
 http://221.0.78.198:1681/hls/10279/index.m3u8
 #EXTINF:-1,tvg-id="济南教育高清" tvg-name="济南教育高清" tvg-logo="https://live.fanmingming.com/tv/济南教育.png" group-title="济南",济南教育高清
 http://221.0.78.198:1681/hls/10286/index.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
+http://www.xuweihome.vip:2222/udp/239.253.248.152:8000
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
+http://www.xuweihome.vip:2222/udp/239.253.248.153:8000
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="CHC",CHC高清电影
+http://www.xuweihome.vip:2222/udp/239.253.248.154:8000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
 http://www.xuweihome.vip:2222/udp/239.253.248.61:8000
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
